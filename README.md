@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ahire-Mayur/Coding-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahire-Mayur/Coding-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ahire-Mayur/Coding-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
